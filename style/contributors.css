@@ -18,6 +18,13 @@ div {
     border: groove #022c4d 1px;
     padding: 20px;
 }
+.volatyl{
+    background-color: #022c4d;
+    text-align: center;
+    font-size: 4rem;
+    color: orange;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
 
 .co-creator {
     color: lightblue;
